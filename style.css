@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: #2F2E41;
+  background-color: #2C2B3D;
   font-family: 'JetBrains Mono';
 }
 
@@ -62,7 +62,6 @@ span {
 
 .line {
   text-align: center;
-  margin:0;
   margin-bottom:27px;
   width: 1083px;
 }
